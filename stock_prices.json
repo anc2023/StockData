@@ -1,9 +1,23 @@
 {
-    "VGT": {"price": "0"},
-    "XBI": {"price": "0"},
-    "NVDA": {"price": "0"},
-    "TSLA": {"price": "0"},
-    "MRNA": {"price": "0"},
-    "CRSP": {"price": "0"},
-    "XYZ": {"price": "0"}
+    "VGT": {
+        "price": "644.1000"
+    },
+    "XBI": {
+        "price": "91.3300"
+    },
+    "NVDA": {
+        "price": "139.4000"
+    },
+    "TSLA": {
+        "price": "354.1100"
+    },
+    "MRNA": {
+        "price": "35.7500"
+    },
+    "CRSP": {
+        "price": "52.2200"
+    },
+    "XYZ": {
+        "price": "84.1800"
+    }
 }
